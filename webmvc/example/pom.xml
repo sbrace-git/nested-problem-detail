@@ -31,6 +31,7 @@
         <dependency>
             <groupId>io.github.sbracely</groupId>
             <artifactId>extended-problem-detail-boot3-webmvc-spring-boot-starter</artifactId>
+            <type>pom</type>
             <version>${project.version}</version>
         </dependency>
         <dependency>
