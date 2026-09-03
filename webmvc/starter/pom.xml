@@ -5,15 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-parent</artifactId>
-        <version>4.1.1</version>
-        <relativePath/>
+        <groupId>io.github.sbracely</groupId>
+        <artifactId>extended-problem-detail-boot4-webmvc</artifactId>
+        <version>4.0.2</version>
     </parent>
 
-    <groupId>io.github.sbracely</groupId>
     <artifactId>extended-problem-detail-boot4-webmvc-spring-boot-starter</artifactId>
-    <version>4.0.2</version>
     <name>Extended Problem Detail Boot 4 WebMVC Starter</name>
     <description>Spring Boot 4 starter for Extended Problem Detail on Spring WebMVC</description>
     <url>https://github.com/sbracely/extended-problem-detail</url>

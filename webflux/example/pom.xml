@@ -31,7 +31,6 @@
         <dependency>
             <groupId>io.github.sbracely</groupId>
             <artifactId>extended-problem-detail-boot4-webflux-spring-boot-starter</artifactId>
-            <type>pom</type>
             <version>${project.version}</version>
         </dependency>
         <dependency>
