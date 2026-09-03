@@ -1489,7 +1489,7 @@ components:
           format: int32
           description: User age used by validation examples.
           example: 28
-          maximum: 150
+          maximum: 9223372036854775807
           minimum: 0
         password:
           type: string
