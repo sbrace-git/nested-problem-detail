@@ -1,2 +1,4 @@
 /mvnw text eol=lf
 *.cmd text eol=crlf
+/webmvc/example/docs/** text eol=lf
+/webflux/example/docs/** text eol=lf
